@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: ly.springboot.test
+Implementation-Version: 0.0.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: lixia
+Implementation-Vendor-Id: com.my.spring
+Spring-Boot-Version: 1.5.4.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.lanyou.rzzl.Application
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/spring.test/
+
