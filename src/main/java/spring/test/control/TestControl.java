@@ -1,5 +1,8 @@
 package spring.test.control;
-
+/**
+ * 程序启动器
+ * 
+ */
 
 import java.io.InputStream;
 import java.io.UnsupportedEncodingException;
